@@ -2,30 +2,29 @@
 
 **WORK IN PROGRESS**
 
-Just drop your files into de 'json' folder and the all be loaded in the index using jQuery $.getJSON and rendering with Handlebars.
-
+Create simple HTML5+CSS3 presentations using JSON for storing your contents. 
 
 ## Quick start
 
-** ToDo **
+Just drop your files into de 'json' folder and the all be loaded in the index using jQuery $.getJSON and rendering with Handlebars.
 
 ## Features
 
-** ToDo **
+**ToDo**
 
 ## Documentation
 
-** ToDo **
+**ToDo**
 
 ## Contributing
 
-** ToDo **
+**ToDo**
 
 ### This project uses:
 
-* HTML5 Boilerplate
-* Modernizr
-* jQuery
-* Handlebars
-* SASS
-* Compass
+* [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
+* [Modernizr](https://github.com/Modernizr/Modernizr)
+* [jQuery](https://github.com/jquery/jquery)
+* [Handlebars](https://github.com/wycats/handlebars.js)
+* [SASS](https://github.com/nex3/sass)
+* [Compass](https://github.com/chriseppstein/compass)
